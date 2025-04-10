@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "Users/syifa/Desktop/syiflut_ngoding/javafx-sdk-24_2/lib/**/*.jar",
+        "/Users/syifa/Desktop/syiflut_ngoding/javafx-sdk-24_2/lib/**/*.jar",
+        "/Users/syifa/Desktop/syiflut_ngoding/javafx-sdk-24_2/legal/**/*.jar",
+        "/Users/syifa/Desktop/syiflut_ngoding/**/*.jar"
+    ]
+}

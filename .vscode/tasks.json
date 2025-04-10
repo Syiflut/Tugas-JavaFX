@@ -1,0 +1,27 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+      {
+        "label": "build-javafx",
+        "type": "shell",
+        "command": "javac",
+        "args": [
+          "--module-path",
+          "/Users/syifa/Desktop/syiflut_ngoding/javafx-sdk-24_2/lib",
+          "--add-modules",
+          "javafx.controls,javafx.fxml",
+          "App.java"
+        ],
+        "options": {
+          "cwd": "/Users/syifa/Library/CloudStorage/OneDrive-Personal/Tugas_Project1/Tugas_algo1/.vscode/Project 1 tugas/tugas 1/src"
+        },
+        "group": {
+          "kind": "build",
+          "isDefault": true
+        },
+        "problemMatcher": ["$javac"]
+      }
+    ]
+  }
+
+  
